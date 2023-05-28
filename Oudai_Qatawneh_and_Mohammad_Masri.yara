@@ -18,7 +18,7 @@ strings:
 
 	$POPUP = "No internet, No game" wide
 	$PSUT = "PSUT.dll is missing!" wide
-	$txtfile = "C:\Users\Hacked2.txt" wide
+	$txtfile = "C:\\Users\\Hacked2.txt" wide
 	$Cipher = "CeaserCipher" ascii
 	$sql_command = "SELECT * FROM Win32_NetworkAdapterConfiguration WHERE IPEnabled = True" wide
 	$file_result = "BUFFER OVERFLOW" wide
