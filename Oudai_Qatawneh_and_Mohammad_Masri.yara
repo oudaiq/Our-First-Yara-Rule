@@ -4,7 +4,7 @@ rule Unknown_Malware
 meta:
 
 	author = " Oudai Qatawneh and Mohammad Masri"
-  supervisor = "Dr Haitham Alani"
+  	supervisor = "Dr Haitham Alani"
 	Modified_date = "Sunday 14 May 2023, 12:12:40"
 	sha1 = "75087825959CED8A90ECD317BE88FDCF159070D7"
 	md5 = "288ED41EFF190F69A1BC3D156743834E"
