@@ -27,5 +27,5 @@ strings:
 
 condition:
 
-	($magic_byte at 0 and ($sql_command or $Cipher)) or $txtfile or $link or $POPUP $PSUT) 
+	($magic_byte at 0 and ($sql_command or $Cipher)) or $txtfile or $link or $POPUP $PSUT
   }
